@@ -152,8 +152,8 @@ Bai_tap_Java/
 | Họ và tên | Mã số sinh viên | Tỉ lệ tham gia công việc | Mô tả cụ thể công việc |
 |:---:|:---:|:---:|:---:|
 | Nguyễn Minh Nhật | 102240155 | 33.33% | -thiết kế file tính toán vật lý: các công thức vật lý / -tạo các testcase để đánh giá chương trình và thiết kế database có sẵn để báo cáo kết quả định tuyến, viết hướng dẫn sử dụng và hướng dẫn cài đặt  |
-| Lê Nam Khánh |  | 33.33% | -thiết kế model, triển khai viết code Backend định tuyến và tính toán dijiktra |
-| Trần Nguyễn Thành Long |  | 33.33% | - thiết kế GUI , hỗ trợ tester Backend , đề xuất ý kiến |
+| Lê Nam Khánh | 102240142 | 33.33% | -thiết kế model, triển khai viết code Backend định tuyến và tính toán dijiktra |
+| Trần Nguyễn Thành Long | 102240147 | 33.33% | - thiết kế GUI , hỗ trợ tester Backend , đề xuất ý kiến |
 
 ---
 
